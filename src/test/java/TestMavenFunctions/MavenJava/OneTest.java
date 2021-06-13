@@ -17,5 +17,8 @@ public class OneTest {
 	public void f3() {
 		System.out.println("Test f3()");
 	}
-
+	@Test
+	public void newf2() {
+		System.out.println("Test newf2()");
+	}
 }
