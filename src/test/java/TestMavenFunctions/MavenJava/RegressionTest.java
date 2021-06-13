@@ -31,6 +31,8 @@ public class RegressionTest {
 	@Test
 	public void newf2RegressionTest() {
 		System.out.println("Test newf2RegressionTest()");
+		System.out.println("updated in devlopment branch");
+
 	}
 
 }

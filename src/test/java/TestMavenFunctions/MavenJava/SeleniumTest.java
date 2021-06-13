@@ -16,6 +16,7 @@ public class SeleniumTest {
 
 	public void newf2SeleniumTest() {
 		System.out.println("Test newf2SeleniumTest");
+		System.out.println("updated in devlopment branch");
 	}
 
 }
