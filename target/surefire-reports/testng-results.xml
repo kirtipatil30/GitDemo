@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="107" started-at="2021-05-25T13:30:18 IST" finished-at="2021-05-25T13:30:18 IST">
+    <groups>
+    </groups>
+    <test name="Regression" duration-ms="107" started-at="2021-05-25T13:30:18 IST" finished-at="2021-05-25T13:30:18 IST">
+      <class name="TestMavenFunctions.MavenJava.SeleniumTest">
+        <test-method status="PASS" signature="f1()[pri:0, instance:TestMavenFunctions.MavenJava.SeleniumTest@5a8e6209]" name="f1" duration-ms="1" started-at="2021-05-25T13:30:18 IST" finished-at="2021-05-25T13:30:18 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f1 -->
+      </class> <!-- TestMavenFunctions.MavenJava.SeleniumTest -->
+      <class name="TestMavenFunctions.MavenJava.OneTest">
+        <test-method status="PASS" signature="f1()[pri:0, instance:TestMavenFunctions.MavenJava.OneTest@3b0143d3]" name="f1" duration-ms="1" started-at="2021-05-25T13:30:18 IST" finished-at="2021-05-25T13:30:18 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f1 -->
+        <test-method status="PASS" signature="f2()[pri:0, instance:TestMavenFunctions.MavenJava.OneTest@3b0143d3]" name="f2" duration-ms="1" started-at="2021-05-25T13:30:18 IST" finished-at="2021-05-25T13:30:18 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f2 -->
+      </class> <!-- TestMavenFunctions.MavenJava.OneTest -->
+      <class name="TestMavenFunctions.MavenJava.RegressionTest">
+        <test-method status="PASS" signature="f1()[pri:0, instance:TestMavenFunctions.MavenJava.RegressionTest@6536e911]" name="f1" duration-ms="9" started-at="2021-05-25T13:30:18 IST" finished-at="2021-05-25T13:30:18 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f1 -->
+      </class> <!-- TestMavenFunctions.MavenJava.RegressionTest -->
+    </test> <!-- Regression -->
+  </suite> <!-- Suite -->
+</testng-results>
