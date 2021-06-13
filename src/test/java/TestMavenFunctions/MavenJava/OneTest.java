@@ -10,6 +10,12 @@ public class OneTest {
 	@Test
 	public void f2() {
 		System.out.println("Test f2()");
+		
+
+	}
+	@Test
+	public void f3() {
+		System.out.println("Test f3()");
 	}
 
 }
