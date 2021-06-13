@@ -19,5 +19,8 @@ public class RegressionTest {
 		System.out.println("New test added to 2 Git Stuff  made changes to f2");
 		System.out.println("New test added to 3 Git stuff made changes to f2");
 	}
-
+	@Test
+	public void newf2RegressionTest() {
+		System.out.println("Test newf2RegressionTest()");
+	}
 }
