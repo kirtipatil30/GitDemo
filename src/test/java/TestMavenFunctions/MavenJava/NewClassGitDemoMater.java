@@ -1,6 +1,6 @@
 package TestMavenFunctions.MavenJava;
 
-public abstract class NewClassGitDemo implements IGetStuff{
+public abstract class NewClassGitDemoMater implements IGetStuff{
 	
 	public abstract void m1();
 	public abstract void m2();
